@@ -46,7 +46,7 @@ html{scroll-behavior: smooth;}
 /*========== Classes modified to reduce size and print on A4 sheet ==========*/
 
 body{
-  margin: 0 0 var(--header-height) 0;
+  /* margin: 0 0 var(--header-height) 0; */
   padding: 0;
   font-family: var(--body-font);
   font-size: var(--normal-font-size);
@@ -142,6 +142,7 @@ img{
   border-radius: 5px;
   cursor: pointer;
   transition: 0.4;
+  margin-top: 2rem;
 }
 
 .download_apk:hover{
