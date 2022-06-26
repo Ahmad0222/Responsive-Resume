@@ -125,6 +125,7 @@ img{
 .home_container{
   position: relative;
   align-content: center;
+  margin-top: 5rem;
 }
 
 .main{
@@ -142,7 +143,6 @@ img{
   border-radius: 5px;
   cursor: pointer;
   transition: 0.4;
-  margin-top: 2rem;
 }
 
 .download_apk:hover{
