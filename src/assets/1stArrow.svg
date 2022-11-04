@@ -1,8 +1,0 @@
-<svg width="86" height="37" viewBox="0 0 86 37" fill="none" xmlns="http://www.w3.org/2000/svg">
-<circle cx="6" cy="6" r="5" fill="#F7F7F7" stroke="#C8C8C8" stroke-width="2"/>
-<circle cx="80" cy="31" r="5" fill="#F7F7F7" stroke="#C8C8C8" stroke-width="2"/>
-<path d="M11 6H80" stroke="#C8C8C8" stroke-width="2" stroke-dasharray="7 5">
-<animate attributeName="stroke-dashoffset" from="12" to="0" dur="1s" repeatCount="indefinite"/></path>
-<path d="M80 5L80 26" stroke="#C8C8C8" stroke-width="2" stroke-dasharray="7 5">
-<animate attributeName="stroke-dashoffset" from="12" to="0" dur="1s" repeatCount="indefinite"/></path>
-</svg>
